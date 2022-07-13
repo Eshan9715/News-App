@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/NewsApp/app/src/main/res/layout/headlines_list_items.xml" value="0.1" />
+        <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/NewsApp/app/src/main/res/layout/details_screen.xml" value="0.10925925925925926" />
+        <entry key="..\:/Users/eshan/Desktop/UOC/EIT Physics/Android projects/NewsApp/app/src/main/res/layout/headlines_list_items.xml" value="0.264" />
       </map>
     </option>
   </component>
